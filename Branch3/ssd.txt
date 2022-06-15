@@ -1,1 +1,2 @@
 Storage 70Gb
+Locked By OS --> 1.5GB
